@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NuanceLatticeToTranscription
 {
-    public class Class1
+    public class Conversor
     {
     }
 }
