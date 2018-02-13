@@ -1,0 +1,8 @@
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\bin\Debug\NuanceLatticeToTranscription.dll
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\bin\Debug\NuanceLatticeToTranscription.pdb
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\bin\Debug\Newtonsoft.Json.dll
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\bin\Debug\Newtonsoft.Json.xml
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\obj\Debug\NuanceLatticeToTranscription.csprojResolveAssemblyReference.cache
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\obj\Debug\NuanceLatticeToTranscription.csproj.CoreCompileInputs.cache
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\obj\Debug\NuanceLatticeToTranscription.dll
+C:\git\NuanceLatticeToTranscription\NuanceLatticeToTranscription\obj\Debug\NuanceLatticeToTranscription.pdb

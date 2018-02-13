@@ -1,0 +1,17 @@
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Teste.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Teste.pdb
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Newtonsoft.Json.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\NuanceLatticeToTranscription.dll
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\NuanceLatticeToTranscription.pdb
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\NuanceLatticeToTranscription\Teste\bin\Debug\Newtonsoft.Json.xml
+C:\git\NuanceLatticeToTranscription\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\git\NuanceLatticeToTranscription\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\git\NuanceLatticeToTranscription\Teste\obj\Debug\Teste.dll
+C:\git\NuanceLatticeToTranscription\Teste\obj\Debug\Teste.pdb
